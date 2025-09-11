@@ -17,7 +17,6 @@ D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\scopedcss\bundle\GameStore.FrontEnd.styles.css
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\scopedcss\projectbundle\GameStore.FrontEnd.bundle.scp.css
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\compressed\6sdt6bwttb-khy4lop6wu.gz
@@ -74,5 +73,6 @@ D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\refint\GameStore.FrontEnd.dll
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\GameStore.FrontEnd.pdb
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\GameStore.FrontEnd.genruntimeconfig.cache
 D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\ref\GameStore.FrontEnd.dll
-D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\compressed\n99s1o0eqm-56skf7jiro.gz
-D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\compressed\stk0v6sysc-56skf7jiro.gz
+D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\GameStore.FrontEnd.sourcelink.json
+D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\compressed\n99s1o0eqm-0hovoeinuf.gz
+D:\GameStore\GameStore.FrontEnd\obj\Debug\net9.0\compressed\stk0v6sysc-0hovoeinuf.gz

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GameStore\\GameStore.FrontEnd\\GameStore.FrontEnd.csproj": {}
+    "D:\\GameStore\\GameStore.FrontEnd\\GameStore.FrontEnd.csproj": {}
   },
   "projects": {
-    "d:\\GameStore\\GameStore.FrontEnd\\GameStore.FrontEnd.csproj": {
+    "D:\\GameStore\\GameStore.FrontEnd\\GameStore.FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GameStore\\GameStore.FrontEnd\\GameStore.FrontEnd.csproj",
+        "projectUniqueName": "D:\\GameStore\\GameStore.FrontEnd\\GameStore.FrontEnd.csproj",
         "projectName": "GameStore.FrontEnd",
-        "projectPath": "d:\\GameStore\\GameStore.FrontEnd\\GameStore.FrontEnd.csproj",
+        "projectPath": "D:\\GameStore\\GameStore.FrontEnd\\GameStore.FrontEnd.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "d:\\GameStore\\GameStore.FrontEnd\\obj\\",
+        "outputPath": "D:\\GameStore\\GameStore.FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

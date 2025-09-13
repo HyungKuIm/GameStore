@@ -3,7 +3,7 @@ using GameStore.FrontEnd.Models;
 
 namespace GameStore.FrontEnd.Clients;
 
-public class GenreClient
+public class GenreClient(HttpClient httpClient)
 {
     private readonly Genre[] genres =
     [
@@ -29,5 +29,6 @@ public class GenreClient
         }
     ];
 
-    public Genre[] GetGenres() => genres;
+    public async Task<Genre[]> GetGenresAsync()
+        => await httpClient.GetFromJsonAsync<Genre[]>("genres") ?? [];
 }
